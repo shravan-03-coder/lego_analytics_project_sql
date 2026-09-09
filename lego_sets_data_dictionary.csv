@@ -1,0 +1,15 @@
+﻿Field,Description
+set_id,Official LEGO item number
+name,Name of the LEGO set
+year,Release year
+theme,LEGO theme the set belongs to
+subtheme,Subtheme within the theme
+themeGroup,Overall group the theme belongs to
+category,Type of set
+pieces,Number of pieces in the set
+minifigs,Number of mini figures included in the set
+agerange_min,Minimum age recommended
+US_retailPrice,US retail price at launch
+bricksetURL,URL for the set on brickset.com
+thumbnailURL,Small image of the set
+imageURL,Full size image of the set
