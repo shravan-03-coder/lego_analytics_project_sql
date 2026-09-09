@@ -604,7 +604,7 @@ This project demonstrates practical and advanced MySQL skills:
 
 ---
 
-# 📁 Recommended GitHub Project Structure
+# 📁 GitHub Project Structure
 
 ```text
 LEGO-Product-Portfolio-Analytics/
