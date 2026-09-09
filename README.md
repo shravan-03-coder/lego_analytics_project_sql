@@ -63,7 +63,7 @@ The project uses a LEGO product dataset containing historical product informatio
 
 | Column           | Description                   |
 | ---------------- | ----------------------------- |
-| `set_id`         | Official LEGO set/item number |
+| `sets_id`         | Official LEGO set/item number |
 | `name`           | LEGO set name                 |
 | `year`           | Product release year          |
 | `theme`          | LEGO theme                    |
@@ -130,10 +130,10 @@ Before performing business analysis, the dataset is checked for:
 -- Check whether any LEGO set IDs appear more than once
 
 SELECT
-    set_id,
+    sets_id,
     COUNT(*) AS duplicate_count
 FROM lego_sets
-GROUP BY set_id
+GROUP BY sets_id
 HAVING COUNT(*) > 1
 ORDER BY duplicate_count DESC;
 ```
