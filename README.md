@@ -712,18 +712,6 @@ Product Strategy
 
 ---
 
-# 💼 Resume Description
-
-### LEGO Product Portfolio Analytics — MySQL
-
-> Analyzed 18K+ LEGO product records using MySQL to evaluate product launch trends, theme performance, pricing strategy, product size, and customer age segmentation. Performed data quality validation and advanced SQL analysis using CTEs, window functions, ranking, YoY growth, price-per-piece metrics, portfolio segmentation, and reusable analytical views to generate business-oriented insights.
-
-### Skills
-
-`MySQL` `SQL` `Data Analysis` `Data Cleaning` `EDA` `CTEs` `Window Functions` `LAG()` `ROW_NUMBER()` `DENSE_RANK()` `CASE` `Subqueries` `Views` `Business Intelligence`
-
----
-
 # 👨‍💻 Author
 
 **Shravan Bhosale**
